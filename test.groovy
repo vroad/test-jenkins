@@ -6,7 +6,7 @@ pipeline {
   stages {
     stage("local") {
       steps {
-        echo 'Hello world'
+        echo 'Hello world 2'
       }
     }
   }
